@@ -1,1 +1,1 @@
-# ReLiT-Reliability-Guided-Representation-to-Token-Learning-
+# ReLiT-Reliability-Guided-Representation-to-Token-Learning
